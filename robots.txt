@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.liluama.com/sitemap.xml
+Sitemap: https://liluama.com/sitemap.xml
