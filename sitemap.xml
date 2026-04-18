@@ -433,6 +433,12 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/ingrediente/acido-folico/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/ingrediente/alcachofa/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -463,6 +469,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/ingrediente/calcio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/ingrediente/chancapiedra/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -487,7 +499,25 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/ingrediente/hierro/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/ingrediente/magnesio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/ingrediente/nettle-root/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/ingrediente/omega-3/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -500,6 +530,18 @@
   </url>
   <url>
     <loc>https://liluama.com/ingrediente/probiotics/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/ingrediente/selenio/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/ingrediente/silicio-organico/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -529,6 +571,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/ingrediente/vitamina-b6/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/ingrediente/vitamina-c/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
@@ -536,6 +584,12 @@
   </url>
   <url>
     <loc>https://liluama.com/ingrediente/vitamina-d3/</loc>
+    <lastmod>2026-04-17</lastmod>
+    <priority>0.7</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/ingrediente/vitamina-e/</loc>
     <lastmod>2026-04-17</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
@@ -1265,23 +1319,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://liluama.com/ingrediente/vitamina-b6/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.com/ingrediente/vitamina-e/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.com/ingrediente/magnesio/</loc>
-    <lastmod>2026-04-17</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
