@@ -602,7 +602,7 @@
   </url>
   <url>
     <loc>https://liluama.com/ingredientes/</loc>
-    <lastmod>2026-04-17</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.7</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -788,7 +788,7 @@
   </url>
   <url>
     <loc>https://liluama.com/condiciones/</loc>
-    <lastmod>2026-04-16</lastmod>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -979,6 +979,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/condiciones/incontinencia-de-urgencia/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/condiciones/incontinencia-esfuerzo/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1093,6 +1099,12 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://liluama.com/condiciones/nefritis-cronica/</loc>
+    <lastmod>2026-04-18</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://liluama.com/condiciones/nefritis-intersticial/</loc>
     <lastmod>2026-04-16</lastmod>
     <priority>0.6</priority>
@@ -1149,6 +1161,12 @@
   <url>
     <loc>https://liluama.com/condiciones/ph-urinario-y-salud-renal/</loc>
     <lastmod>2026-04-17</lastmod>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://liluama.com/condiciones/piedras-en-el-rinon/</loc>
+    <lastmod>2026-04-18</lastmod>
     <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
@@ -1319,23 +1337,5 @@
     <lastmod>2026-04-16</lastmod>
     <priority>0.5</priority>
     <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://liluama.com/condiciones/piedras-en-el-rinon/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.com/condiciones/nefritis-cronica/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://liluama.com/condiciones/incontinencia-de-urgencia/</loc>
-    <lastmod>2026-04-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
   </url>
 </urlset>
